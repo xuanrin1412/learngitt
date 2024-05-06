@@ -1,2 +1,3 @@
 console.log(dev2);
-console.log(dev23);
+console.log("troi dat oi ");
+
